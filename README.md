@@ -4,6 +4,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-machado-pontes-161616286/)
 [![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://profile.indeed.com/welcome)
+[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/DevGustavus)
 
 <div>
   <a href="https://github.com/DevGustavus">
@@ -27,18 +28,21 @@
 <br><br>
 
 <img alt="GIT" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
+<img alt="BootStrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 
 </div>
 
 <br>
 
-## Softwares 🤖:
+## Outros Softwares 🤖:
 
 <div style="display: flex;">
   
 <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-<img alt="Gimp" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
 
 <br><br>
 
@@ -52,9 +56,8 @@
 
 <div style="display: flex;">
   
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-<img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
+<img alt="BootStrap" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 
 </div>
 
@@ -67,7 +70,7 @@
 <b>Status:</b> Cursando <br>
 <b>Instituição de ensino:</b> Instituto Federal do Triângulo Mineiro - IFTM
 
-- <b>4° Período</b>
+- <b>5° Período</b>
 - Em progresso...
 
 <br>
@@ -76,7 +79,7 @@
 
 Entusiasta da tecnologia, me chamo Gustavo e sou paulista de São Bernardo do Campo - SBC. Estou sempre estudando novas tecnologias e aprimorando as já conhecidas.
 
-No momento, tenho 21 anos e sou universitário no IFTM Campus Uberaba, cursando ADS a partir do 4° Período.<br>
+No momento, tenho 21 anos e sou universitário no IFTM Campus Uberaba, cursando ADS a partir do 5° Período.<br>
 Gosto de aprender coisas novas e possuo grande adaptabilidade e habilidade para trabalhar em equipe, o que me impulsiona a abraçar novos desafios.
 
 Tenho familiaridade com diversas ferramentas de design, como Canva, Figma e PhotoPea, e estou à vontade com os softwares do pacote Microsoft Office.
