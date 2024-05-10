@@ -25,6 +25,7 @@
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img alt="Mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+<img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
 
 <br><br>
 
@@ -82,7 +83,7 @@
 
 Entusiasta da tecnologia, me chamo Gustavo e sou paulista de São Bernardo do Campo - SBC. Estou sempre estudando novas tecnologias e aprimorando as já conhecidas.
 
-No momento, tenho 21 anos e sou universitário no IFTM Campus Uberaba, cursando ADS a partir do 5° Período.<br>
+No momento, tenho 22 anos e sou universitário no IFTM Campus Uberaba, cursando ADS a partir do 5° Período.<br>
 Gosto de aprender coisas novas e possuo grande adaptabilidade e habilidade para trabalhar em equipe, o que me impulsiona a abraçar novos desafios.
 
 Tenho familiaridade com diversas ferramentas de design, como Canva, Figma e PhotoPea, e estou à vontade com os softwares do pacote Microsoft Office.
