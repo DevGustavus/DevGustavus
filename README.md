@@ -119,8 +119,7 @@
 
 Entusiasta da tecnologia, me chamo Gustavo e sou paulista de São Bernardo do Campo - SBC. Estou sempre estudando novas tecnologias e aprimorando as já conhecidas.
 
-No momento, tenho 22 anos e já fui universitário no IFTM Campus Uberaba, cursando Análise e Desenvolvimento de Sistemas. Não obstante, também sou pesquisador no IFTM, realizando uma Iniciação Científica com tema em IA.<br>
-Gosto de aprender coisas novas e possuo grande adaptabilidade e habilidade para trabalhar em equipe, o que me impulsiona a abraçar novos desafios.
+No momento, tenho 22 anos e já fui universitário no IFTM Campus Uberaba, cursando Análise e Desenvolvimento de Sistemas. Não obstante, também sou pesquisador no IFTM, realizando uma Iniciação Científica com tema em IA.
 
 Tenho conhecimento em diversas ferramentas, como por exemplo: Google Analytics, Google Tag Manager e estou à vontade com os softwares do pacote Microsoft Office.
 
